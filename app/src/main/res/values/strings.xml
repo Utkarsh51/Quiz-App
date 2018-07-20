@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sports Quiz</string>
+    <string name="question_1">Who is known as God of cricket? </string>
+    <string name="question_2">Most sixes in an inning in T20 has been scored by which team(s)?</string>
+    <string name="question_3">Who scored first T20 international century?</string>
+    <string name="question_4">Most wickets in an inning has been taken by which player(s)?</string>
+    <string name="question_5">Highest victory by wicket margin in ODI international?</string>
+    <string name="question_6">Highest partnership in ODI cricket is done by which two players?</string>
+    <string name="Question1">Q1.</string>
+    <string name="Question2">Q2.</string>
+    <string name="Question3">Q3.</string>
+    <string name="Question4">Q4.</string>
+    <string name="Question5">Q5.</string>
+    <string name="Question6">Q6.</string>
+    <string name="option1A">Sir Don Bradman</string>
+    <string name="option1B">Sachin Tendulkar</string>
+    <string name="option1C">Brian Lara</string>
+    <string name="option2A">India</string>
+    <string name="option2B">West Indies</string>
+    <string name="option2C">Sri Lanka</string>
+    <string name="option3A">Virat Kohli</string>
+    <string name="option3B">Sachin Tendulkar</string>
+    <string name="option3C">Chris Gayle</string>
+    <string name="option4A">Anil Kumble</string>
+    <string name="option4B">J C Laker</string>
+    <string name="option4C">Richard Hadlee</string>
+    <string name="textHint">00</string>
+    <string name="option6A">M Samuels</string>
+    <string name="option6B">G D McGrath</string>
+    <string name="option6C">Chris Gayle</string>
+    <string name="Submit">Submit</string>
+
+</resources>
